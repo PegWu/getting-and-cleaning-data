@@ -7,7 +7,7 @@ Obtain the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfile
 Unzip the dataset and create the UCI HAR Dataset directory.
 
 ## Cookbook
-Codebook.md describes the data variables and the process it took to clean up and transform the data.
+Codebook.md describes the data variables and the process it took to clean it up.
 
 ## Script and dependencies
 run_analysis.R contains the script used to perform the data transformation. It requires the reshape2 package, which available on CRAN.
