@@ -9,7 +9,7 @@ Obtain the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfile
 Codebook.md describes the data variables and the process it took to clean it up.
 
 ## Script and dependencies
-run_analysis.R contains the script used to clean the data. It requires the reshape2 package, which available on CRAN.
+run_analysis.R contains the script used to clean the data. It uses the reshape2 package, which available on CRAN, to produce a final dataset that summarizes the mean and standard deviation of the movement measurements by subject and activity. 
 
 ## Output
-Results.txt is the output of the cleaned, wide tidy dataset, summarizing the mean and standard deviation of the movement measurments by subject and activity.
+Results.txt is the output of the cleaned, wide, tidy dataset, summarizing the mean and standard deviation of the movement measurments by subject and activity.
