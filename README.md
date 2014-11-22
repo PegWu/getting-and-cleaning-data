@@ -5,7 +5,7 @@ This is a class project to work with "Human Activity Recognition Using Smartphon
 ## Dataset
 Obtain the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. It contains measurements of movements made by 30 volunteers for the study. Unzip the dataset and create the UCI HAR Dataset directory.
 
-## Cookbook
+## Code Book
 Codebook.md describes the data variables and the process it took to clean it up.
 
 ## Script and dependencies
