@@ -10,7 +10,7 @@ Unzip the dataset and create the UCI HAR Dataset directory.
 Codebook.md describes the data variables and the process it took to clean it up.
 
 ## Script and dependencies
-run_analysis.R contains the script used to perform the data transformation. It requires the reshape2 package, which available on CRAN.
+run_analysis.R contains the script used to clean the data. It requires the reshape2 package, which available on CRAN.
 
 ## Output
 Results.txt is the output of the cleaned, wide tidy dataset, summarizing the mean and standard deviation of the measurments by subject and activity.
